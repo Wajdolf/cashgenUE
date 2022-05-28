@@ -1,6 +1,6 @@
 #pragma once
 
-#include "Cashgen/Public/Struct/IntVector2.h"
+#include "CashGen/Public/Struct/IntVector2.h"
 
 #include <Runtime/Engine/Classes/Components/SphereComponent.h>
 #include <ProceduralMeshComponent/Public/ProceduralMeshComponent.h>
